@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![Screenshot 2024-12-06 034427](https://github.com/user-attachments/assets/fe6792c8-4683-4826-b210-cd5c034335e9)
+
+
+### Name:SHARON ARUL BHARATHI J.F.
+### Register Number:24005394
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
